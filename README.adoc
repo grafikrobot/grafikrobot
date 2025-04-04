@@ -1,0 +1,27 @@
+== Some of the projects I work on..
+
+- https://ecostd.github.io/[Ecosystem Standards]: Create standards for programming language tools.
+- https://www.bfgroup.xyz/b2/[B2 build system]: A C++, and other tools and languages, build system.
+- https://github.com/boostorg/predef[Boost Predef Library]: A C++, C, Objective C, and Objective C++ preprocessor definition library.
+- https://www.bfgroup.xyz/Lyra/[Lyra]: A C++ 11 command line arguments parsing library.
+- https://www.bfgroup.xyz/[Build Frameworks Group]: Creator of group to collectively work on frameworks, i.e. libraries and tools, in support of building software.
+- https://isocpp.org/std/the-committee[WG21 {CPP} Standard]: I participate in the standardization of the open C++ Standard in various ways. Most actively in the Tooling, Low-latency, and IO study groups.
+
+== Current priorities..
+
+Boost::
+. Complete modular build changes.
+. Create prototype for modular Conan packages.
+
+B2::
+. Finalizing 5.3 release.
+. Add `--std-info` implementation and capabilities support.
+. Add support for C++ modules.
+. Implement CPS input and output.
+
+Lyra::
+. Finalize 1.7.0 release.
+
+EcoStd::
+. Rewrite WG21 proposals into EcoStd RFCs.
+. Publish first edition of standard.
