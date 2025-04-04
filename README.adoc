@@ -14,7 +14,6 @@ Boost::
 . Create prototype for modular Conan packages.
 
 B2::
-. Finalizing 5.3 release.
 . Add `--std-info` implementation and capabilities support.
 . Add support for C++ modules.
 . Implement CPS input and output.
