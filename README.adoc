@@ -11,7 +11,7 @@
 
 . https://github.com/boostorg[Boost]: Complete modular build changes.
 . https://github.com/boostorg[Boost]: Create prototype for modular Conan packages.
-. https://github.com/bfgroup/b2[B2]: Add `--std-info` implementation and capabilities support.
+. https://github.com/bfgroup/b2[B2]: Add `--std-info` implementation and capabilities support. ✔️
 . https://github.com/ecostd[EcoStd]: Rewrite WG21 proposals into EcoStd RFCs.
 . https://github.com/bfgroup/b2[B2]: Add support for C++ modules.
 . https://github.com/bfgroup/b2[B2]: Implement CPS input and output.
